@@ -1,1 +1,1 @@
-# Real-Time-Face-EmPIotion-Detection-API-application
+# Real-Time-Face-Emotion-Detection-API-application
